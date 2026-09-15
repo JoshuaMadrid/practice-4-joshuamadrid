@@ -106,4 +106,12 @@ h1 {
   text-transform: uppercase;
 }
 
+.section-head {
+  border-top: 1px solid #EFE9DF;
+  padding: 34px 0 24px;
+}
+
+.section-head p {
+  max-width: 68ch;
+}
 
